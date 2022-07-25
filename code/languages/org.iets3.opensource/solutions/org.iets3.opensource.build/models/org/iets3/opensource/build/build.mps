@@ -12142,6 +12142,11 @@
           <ref role="3bR37D" node="cPLa7FuMZR" resolve="org.iets3.core.expr.data" />
         </node>
       </node>
+      <node concept="1SiIV0" id="2LepRDoQ2eI" role="3bR37C">
+        <node concept="3bR9La" id="2LepRDoQ2eJ" role="1SiIV1">
+          <ref role="3bR37D" to="ffeo:1TaHNgiIbJ$" resolve="jetbrains.mps.ide.editor" />
+        </node>
+      </node>
     </node>
     <node concept="1E1JtA" id="OJuIQp$d7j" role="3989C9">
       <property role="BnDLt" value="true" />
